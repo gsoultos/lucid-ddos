@@ -1,0 +1,5 @@
+__pycache__
+output
+*.hdf5
+*.data
+history.log
